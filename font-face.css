@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-Bold.ttf');
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-Regular.ttf');
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+} 
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-BoldItalic.ttf');
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+} 
+
+@font-face {
+    font-family: 'AtkinsonHyperlegible';
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-Italic.ttf');
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/AtkinsonHyperlegible-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+} 
+
+@font-face {
+    font-family: 'ChaumontScript';
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/ChaumontScript-Regular.woff');
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/ChaumontScript-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+} 
