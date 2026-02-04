@@ -37,3 +37,11 @@
     font-weight: 400;
     font-style: normal;
 } 
+
+@font-face {
+    font-family: 'OpenLandeSans';
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/OpenLandeSans-DemiBold.woff');
+    src: url('https://raw.githubusercontent.com/Jojoes-creative-adventures/Fonts/blob/main/OpenLandeSans-DemiBold.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+} 
